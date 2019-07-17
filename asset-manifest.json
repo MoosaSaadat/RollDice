@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RollDice/static/css/main.2b8eac1e.chunk.css",
+    "main.js": "/RollDice/static/js/main.63c3bba0.chunk.js",
+    "main.js.map": "/RollDice/static/js/main.63c3bba0.chunk.js.map",
+    "runtime~main.js": "/RollDice/static/js/runtime~main.e16cc26d.js",
+    "runtime~main.js.map": "/RollDice/static/js/runtime~main.e16cc26d.js.map",
+    "static/js/2.7cddf10a.chunk.js": "/RollDice/static/js/2.7cddf10a.chunk.js",
+    "static/js/2.7cddf10a.chunk.js.map": "/RollDice/static/js/2.7cddf10a.chunk.js.map",
+    "index.html": "/RollDice/index.html",
+    "precache-manifest.086265b5f989a08f6920c3846af41986.js": "/RollDice/precache-manifest.086265b5f989a08f6920c3846af41986.js",
+    "service-worker.js": "/RollDice/service-worker.js",
+    "static/css/main.2b8eac1e.chunk.css.map": "/RollDice/static/css/main.2b8eac1e.chunk.css.map"
+  }
+}
