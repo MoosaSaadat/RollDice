@@ -1,0 +1,32 @@
+.Die {
+	font-size: 200px;
+	color: #673ab7;
+	margin: 50px;
+}
+
+.Die-Rolling {
+	animation: shake 500ms linear 1 both;
+}
+
+@keyframes shake {
+	10%,
+	90% {
+		transform: translate3d(-10px, 0, 0);
+	}
+
+	20%,
+	80% {
+		transform: translate3d(10px, 0, 0);
+	}
+
+	30%,
+	50%,
+	70% {
+		transform: translate3d(-20px, 0, 0);
+	}
+
+	40%,
+	60% {
+		transform: translate3d(20px, 0, 0);
+	}
+}
